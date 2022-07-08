@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AndroidTableLayout</string>
+    <string name="userid">UserID</string>
+    <string name="_1">1</string>
+    <string name="suresh_dasari">SURESH DASARI</string>
+    <string name="user_name">User Name</string>
+    <string name="hyderbad">Hyderbad</string>
+    <string name="_3">3</string>
+    <string name="location">Location</string>
+    <string name="_2">2</string>
+    <string name="elvira_khwatenge">ELVIRA KHWATENGE</string>
+    <string name="elee_elle">ELEE ELLE</string>
+    <string name="delhi">DELHI</string>
+    <string name="new_york">NEW YORK</string>
+</resources>
